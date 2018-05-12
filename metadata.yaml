@@ -1,0 +1,34 @@
+_repo: Little-Crumbs-and-Other-StoriesFully-Illustrated_45064
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45064-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2014-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+tableOfContents: 'Something sweet -- Little Rosabel''s adventure -- Morning at our
+  house -- Moon folks -- Little crumbs, and little drops -- In the dove cot: two kind
+  little girls -- Ida''s doll -- The family rogue is caught at last -- How Danny said
+  he was sorry -- Miss Rosebud -- What Papa nd Mamma saw -- A finger song: little
+  Kate -- Kate feeds the fishes -- Measuring Tommy -- A little master -- Madame Mobcap
+  -- Under the eaves -- Bo-peep''s stocking.'
+title: "Little Crumbs, and Other Stories\r\nFully Illustrated"
+url: http://www.gutenberg.org/ebooks/45064
